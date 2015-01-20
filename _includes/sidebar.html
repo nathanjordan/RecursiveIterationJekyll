@@ -1,12 +1,11 @@
 <nav>
-  <h1>Hello.</h1>
-  <a href="/">
+    <a href="/">
     {% if site.data.theme.social.gravatar %}
-    <img src="http://www.gravatar.com/avatar/{{ site.data.theme.social.gravatar }}?s=200" id="gravatar" alt="Gravatar"/>
+        <img src="http://www.gravatar.com/avatar/{{ site.data.theme.social.gravatar }}?s=200" id="gravatar" alt="Gravatar"/>
     {% else %}
-    <img src="/logo.png" id="logo" alt="Some picture"/>
+        <img src="/lambda.svg" id="logo" alt="Some picture"/>
     {% endif %}
-  </a>
+    </a>
   <div id="bio">
     <p>Musings and esoteric discussions on programming and computer science.</p>
   </div>
