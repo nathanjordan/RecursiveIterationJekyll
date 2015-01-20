@@ -1,29 +1,31 @@
 # Theme customization - please change from the defaults!
 
 # Color for top bar, links, etc
-highlight_color: '#3498db'
+highlight_color: '#C44D58'
+primary_font: "Roboto Slab"
+header_font: "Roboto Slab"
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  github: swanson
+  github: nathanjordan
   #bitbucket: philipj
-  hacker_news: swanson
-  #stackexchange: 348619
+  #hacker_news: swanson
+  #stackexchange: 1448878
   #stackoverflow: 348619
-  twitter: _swanson
+  twitter: natronjordan
   #facebook: zuck
   #tumblr: animalygifs
-  #linkedin: philipjagielski
+  linkedin: jordann4
   #gplus: 110552447039675960964
-  #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
+  gravatar: bf18474175af70ea10fc6444040b5db7
 
 # "Hi, I'm _______"
-name: Matt Swanson
-email: test@example.com
-tagline: "weak opinions, strongly held"
+name: Nathan Jordan
+email: nathan.m.jordan@gmail.com
+tagline: "The more you know, the less sure you are."
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key: UA-xxxx-x
+google_analytics_key: 
 
 # Toggle "Postings are my own" disclaimer in footer
-show_disclaimer: true
+show_disclaimer: false
